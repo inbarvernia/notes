@@ -1,8 +1,8 @@
 # Note-Taking App
 
-This is a front-end web app which allows users to write and save notes. It was created in response to Makers Academy's Week 7 Afternoon Challenge, and built using HTML, CSS, and vanilla JS.
+This is a front-end web app which allows users to write and save notes. It was created in response to Makers Academy's Week 7 Afternoon Challenge, and built using HTML, CSS, and vanilla JS. The development timeframe was 5 days.
 
-The team: @Emmapr123, @cspoppuppy, @mstrivens and @inbarvernia
+The team: [Sha Cheng](https://github.com/cspoppuppy), [Emma Priester](https://github.com/Emmapr123), [Max Strivens](https://github.com/mstrivens) and [Inbar Vernia](https://github.com/inbarvernia).
 
 ![App preview](app_screenshot.png)
 
